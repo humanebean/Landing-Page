@@ -44,6 +44,9 @@ a{
 }
 button{
     background-color:#3882F6;
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
     padding-right: 20px;
     padding-left:20px;
     padding-top: 5px;
@@ -138,15 +141,7 @@ button{
     background-color: #3882F6;
     display: flex;
 }
-.topText{
-    padding-top: 30px;
-    font-size: 20px;
-    margin:0px 300px;
-    margin-top: 100px;
-}
-.bottomText{
-    margin:0px 300px;
-}
+
 
 .signUpper.blueBox {
     margin:0px 300px;
