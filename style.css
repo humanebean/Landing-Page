@@ -5,6 +5,7 @@ body{
     align-items: center;
     flex-direction: column;
     height: 100%;
+    margin: 0;
 }
 a{
     text-decoration: none;
@@ -148,4 +149,12 @@ button{
     margin-bottom: 100px;
     padding-bottom: 30px;
     justify-content: flex-end;
+}
+.footer{
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
 }
